@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NumbersApp</string>
+    <string name ="Mental_Maths">Test Your Mental Math Skills \n
+        \n
+    Quickfire questions to test and improve your math skills</string>
+    <string name = "randomFact">Random Number Fact \n
+        \n
+    Click to get a fact about a random number</string>
+    <string name = "welcomeScreen">Welcome to the Mental Maths Quiz</string>
+    <string name = "choose">Choose the type of quiz you want to play</string>
+</resources>
